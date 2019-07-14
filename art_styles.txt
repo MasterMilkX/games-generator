@@ -1,0 +1,10 @@
+8x8
+16x16
+32x32
+pokemon 2nd gen
+pokemon 3rd gen
+dragon ball gbc
+Hand drawn
+Terminal text
+2.5D
+Grayscale
